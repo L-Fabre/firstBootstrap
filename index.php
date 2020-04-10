@@ -41,7 +41,7 @@
                     <img src="img/plan2.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Alocasia</h5>
-                        <p>plantes vivaces rhizomateuses ou tubéreuses à larges feuilles de la famille des Aracées.</p>
+                        <p>Plantes vivaces rhizomateuses ou tubéreuses à larges feuilles de la famille des Aracées.</p>
                     </div>
                 </div>
             </div>

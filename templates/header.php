@@ -18,8 +18,8 @@
             Environnement
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="interieur.php">Interieur</a>
-            <a class="dropdown-item" href="exterieur.php">Exterieur</a>
+            <a class="dropdown-item" href="interieur.php">Exterieur</a>
+            <a class="dropdown-item" href="exterieur.php">Interieur</a>
           </div>
         </li>
       </ul>

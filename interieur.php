@@ -21,7 +21,7 @@
             <div class="col-md-8">
                     <div class="card-body">
                         <h5 class="card-title">Cactus</h5>
-                        <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis dolores facere rerum mollitia itaque eos, ab quia, dolore maiores accusantium neque aspernatur iste necessitatibus quis pariatur nam delectus perspiciatis est?</p>
+                        <p class="card-text">Plantes xérophytes qui stockent dans leurs tissus des réserves de « suc » pour faire face aux longues périodes de sécheresse</p>
                     </div>
                 </div>
             </div>
@@ -34,8 +34,8 @@
                     </div>
             <div class="col-md-8">
                     <div class="card-body">
-                        <h5 class="card-title">Cactus</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quae distinctio esse, accusamus unde quas dolor, nam necessitatibus nemo adipisci minus assumenda tempora quam? Pariatur tenetur magni doloribus! Nisi, temporibus.</p>
+                        <h5 class="card-title">Plante succulente</h5>
+                        <p class="card-text">plante charnue adaptée pour survivre dans des milieux arides du fait des caractéristiques du sol, du climat ou à forte concentration en sel</p>
                     </div>
                 </div>
             </div>
@@ -48,8 +48,8 @@
                     </div>
             <div class="col-md-8">
                     <div class="card-body">
-                        <h5 class="card-title">Cactus</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam dicta voluptates magni blanditiis magnam ab quos, nemo obcaecati sunt libero ipsam eum autem id labore totam illo accusamus voluptatibus culpa!</p>
+                        <h5 class="card-title">Bouture</h5>
+                        <p class="card-text">Multiplication végétative de certaines plantes consistant à donner naissance à un nouvel individu à partir d'un organe ou d'un fragment d'organe isolé</p>
                     </div>
                 </div>
             </div>
@@ -62,8 +62,8 @@
                     </div>
             <div class="col-md-8">
                     <div class="card-body">
-                        <h5 class="card-title">Cactus</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum numquam distinctio voluptatum sint quia esse, ratione quidem exercitationem praesentium! Expedita temporibus eum incidunt quam culpa eveniet quod veritatis rem repellendus.</p>
+                        <h5 class="card-title">Orpin de Morgane</h5>
+                        <p class="card-text">Fleurs de la famille des Crassulaceae, originaire du sud du Mexique et du Honduras..</p>
                     </div>
                 </div>
             </div>

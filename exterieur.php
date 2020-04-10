@@ -16,14 +16,14 @@
         <div class="card img-left d-flex distance" style="width: 18rem;">
             <img src="img/plant4.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus eveniet ea ipsa</p>
+                <p class="card-text">Plantes herbacées de la famille des Liliacées, qui compte une centaine d'espèces originaires des régions tempérées chaudes de l'Ancien monde.</p>
             </div>
         </div>
 
         <div class="card img-right d-flex" style="width: 18rem;">
             <img src="img/plant5.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus eveniet ea ipsa</p>
+                <p class="card-text">Heliconia est un genre de plantes à fleur originaire de l'Amérique tropicale et de certaines îles du Pacifique.</p>
             </div>
         </div>
 
