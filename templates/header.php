@@ -6,7 +6,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-     <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav mr-auto">
         <li class="nav-item">
           <a class="nav-link" href="index.php">Accueil <span class="sr-only">(current)</span></a>
         </li>
@@ -18,7 +18,7 @@
             Environnement
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Interieur</a>
+            <a class="dropdown-item" href="interieur.php">Interieur</a>
             <a class="dropdown-item" href="exterieur.php">Exterieur</a>
           </div>
         </li>
